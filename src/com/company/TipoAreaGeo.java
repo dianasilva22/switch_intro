@@ -1,0 +1,7 @@
+package com.company;
+
+public enum TipoAreaGeo {
+    RUA, LUGAR, FREQUESIA, CONCELHO, CIDADE, REGIAO, DISTRITO, PAIS, CONTINENTE, URBANA, FLORESTAL
+}
+
+
